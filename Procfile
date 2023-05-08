@@ -1,0 +1,1 @@
+web: java SJAVA_OPTS -jar target/dependency/webapp-runner.jar - -port SPORT target/FrontOffice-1.0-SNAPSHOT.war
